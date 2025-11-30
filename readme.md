@@ -25,7 +25,7 @@ Install the CLI tool globally using npm or yarn, which makes the `repo-setup` co
 
 ```bash
 # Using npm
-npm install -g multi-repo-setup-tool
+npm install -g repo-setup-tool
 
 # Using yarn
-yarn global add multi-repo-setup-tool
+yarn global add repo-setup-tool
