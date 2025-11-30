@@ -1,0 +1,28 @@
+{
+  "name": "repo-setup-tool",
+  "version": "1.0.0",
+  "description": "This is a tool help you to setup the repos in your local system. ",
+  "main": "cli/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://JayantDwivedi@github.com/JayantDwivedi/multi-repo-tool.git"
+  },
+  "keywords": [
+    "tool",
+    "cli-tool",
+    "repo-setup"
+  ],
+  "author": "Jayant Dwivedi",
+  "license": "MIT",
+  "bin": {
+    "repo-setup": "./cli/index.js",
+    "rs": "./cli/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/JayantDwivedi/multi-repo-tool/issues"
+  },
+  "homepage": "https://github.com/JayantDwivedi/multi-repo-tool#readme"
+}
